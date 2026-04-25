@@ -1,0 +1,15 @@
+# Ignore a specific folder
+models/
+**__pycache__**/
+.vscode
+cap_predictions
+Weixin*.jpg
+.env
+
+
+
+*.zip
+*.pth
+*.ckpt
+*.safetensors
+*.bin
